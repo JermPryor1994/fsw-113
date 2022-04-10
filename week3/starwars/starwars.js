@@ -33,7 +33,6 @@ function updateInfo(data) {
     document.querySelector("#dataValue2").textContent = data[keys[3]];
 }
 
-
 // create a new function called 'updateInfo()' that receives the data from 
 // the call to that function (see above). Use logic to write the appropriate
 //labels to 'dataLabel1' and 'dataLabel2' elements in starwars.html, as well
